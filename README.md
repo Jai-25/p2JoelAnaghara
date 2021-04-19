@@ -16,3 +16,6 @@ Drawbacks of these designs is that they seem to be outdated. The speedometer and
 
 ### Common Features ###
 The most common areas of the dashboard have to be the emergency lights, speedometer, and fuel indicator. Other areas are also important, but most people don't pay much attention. For example, the tachometer is very much neccessary, but the common person doesn't care to pay much attention to how fast their tires are racing. Maybe in Nascar, or some professional racing, they rely heavily on watching the tachometer. Emergency lights are very important as they gives great user feedback and help keep everyone in the car safe. This area of the dashboard is something that should always be paid attention to. The most common lights are the turning signal lights or the car lights. Nowadays, the dashboard should be simple concise and digital. 
+
+### My Design ###
+![my design](IMG_1489[1].JPG)
